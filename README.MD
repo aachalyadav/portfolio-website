@@ -2,6 +2,11 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my projects, technical skills, certifications, and journey as a Computer Science student specializing in AI & Data Science.
 
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 ## 🚀 Live Demo
 
 🔗 **Website:https://aachalyadav.github.io/portfolio-website/**
