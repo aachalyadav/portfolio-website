@@ -9703,3 +9703,19 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+    
+/* ===== Mobile Fix 1: About Section ===== */
+@media (max-width: 768px) {
+
+    .heading-section h1.big {
+        font-size: 60px;
+        top: -15px;
+    }
+
+    .heading-section h2 {
+        font-size: 32px;
+        position: relative;
+        z-index: 2;
+    }
+
+}
