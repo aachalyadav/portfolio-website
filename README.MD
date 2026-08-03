@@ -1,4 +1,4 @@
-# 🌐 Aachal Yadav | Portfolio Website
+# 🌐 AACHAL YADAV | Portfolio Website
 
 Welcome to my personal portfolio website! This portfolio showcases my projects, technical skills, certifications, and journey as a Computer Science student specializing in AI & Data Science.
 
